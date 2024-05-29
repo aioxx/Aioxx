@@ -3,6 +3,8 @@ I'm a software engineer passionate about building scalable and maintainable syst
 
 ### Visit My Blog [https://cyberxbd.pages.dev/](https://cyberxbd.pages.dev/)
 
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-share-url="https://trickbd.web.app/" data-comment="Check out this 🎉🎉" data-size="large"></script>
+
 ## Available ⬇️
 You can find me on:
 
